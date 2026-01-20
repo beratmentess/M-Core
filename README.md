@@ -41,6 +41,7 @@ Bu yazılım taşınabilir (Portable) formatta sunulmaktadır. Kurulum gerektirm
 1.  Bu sayfanın sağ tarafındaki **[Releases (Sürümler)](../../releases)** kısmına gidin.
 2.  En güncel sürümdeki **`M-CORE.exe`** dosyasını indirin.
 3.  Dosyayı çalıştırın ve kullanmaya başlayın.
+![logo1](https://github.com/user-attachments/assets/b8251c70-d23f-42a5-b38f-8a36fed332cc)
 
 ---
 
