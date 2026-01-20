@@ -1,6 +1,7 @@
 # M-CORE | Visual Broadcast System
 
-<img width="1666" height="1666" alt="logo" src="https://github.com/user-attachments/assets/57410dda-33f9-4625-9180-bd4eea1b4693" />
+<img width="1088" height="832" alt="image" src="https://github.com/user-attachments/assets/b062ce4f-7e11-44c1-a2f3-be58db531c80" />
+
 
 > **Profesyonel Sahne ve Canlı Yayın Yönetim Sistemi**
 
